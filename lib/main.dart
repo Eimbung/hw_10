@@ -36,7 +36,7 @@ class Test extends StatelessWidget {
     Insta(imguser: 'android/assets/images/1644214700806.jpg', img: 'android/assets/images/1644214700806.jpg',
         userpost: 'Gimari',comments: [Comments(user: 'Im_Eimmmm', comment: 'His hair look so soft💙😇🥺🥺🥺'),Comments(user: 'Lit_Co', comment: 'cute!👍👍👍')],
         caption: 'ค.นัลลัคของโชคๆ💙😇🥺  \n#นัลลลลรัคคึ ใจเจบ \n#จายยยฉ้านนนน \n #Chockchock'),
-    Insta(imguser: 'android/assets/images/th.jfif', img: 'assets/images/6667437.jpg',
+    Insta(imguser: 'android/assets/images/th.jfif', img: 'android/assets/images/220001.jpg',
         userpost: 'HOhohho',comments: [Comments(user: 'Gobli', comment: 'อ๊ากกกกก🔥🔥🔥'),Comments(user: 'Ninaca', comment: 'wanna cry🥲')],
         caption: 'Thats hurt😂 🤣 🥲\n#meme'),
   ];
